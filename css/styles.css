@@ -1,0 +1,42 @@
+body {
+    background: gold;
+}
+
+h1 {
+    font-size: 60px;
+    color: firebrick
+}
+
+h2 {
+    font-size: 50px;
+}
+
+h1, p, h2 {
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+:visited {
+    color: white;
+}
+
+footer {
+    text-align: center;
+}
+
+footer a {
+    text-align: center;
+    color: white;
+    margin: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer a:hover {
+    color: blue;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    padding-top: 30px;
+}
